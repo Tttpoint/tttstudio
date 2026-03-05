@@ -1,9 +1,11 @@
-# tttstudio
+## 🔥 Premium Version / Full Access
+Unlock datasets, automation tools, source code packs, and premium releases on Polar:
 
-This repository is part of an automated digital asset system designed for large-scale distribution, testing, and monetization.
+👉 https://polar.sh/tttstudio
 
-## About
-This project is generated and maintained through automated workflows for experimentation and publishing purposes.
-
-## Support
-If you want to support this project, you can subscribe or contribute through Polar.
+Premium subscription includes:
+- Exclusive releases
+- Advanced datasets
+- Automatic updates
+- Access to private repositories
+- Early access to new tools
